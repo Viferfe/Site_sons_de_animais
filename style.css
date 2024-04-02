@@ -1,0 +1,42 @@
+.rubik-doodle shadow-regular {
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#dsv{
+    font-family: Rubik Doodle Shadow;
+    font-size: 25px;
+}
+
+#result_label{
+    font-family: Rubik Doodle Shadow;
+    font-size: 25px;
+}
+
+#result_confidence{
+    font-family: Rubik Doodle Shadow;
+    font-size: 25px;
+}
+
+#botão{
+    font-family: Rubik Doodle Shadow;
+}
+
+#obs{
+    font-family: Rubik Doodle Shadow;
+    font-size:30;
+}
+
+h2{
+    font-family: Rubik Doodle Shadow;
+}
+
+body{
+    background-color: yellow;
+    text-align: center;
+}
+
+h4{
+    font-family: Rubik Doodle Shadow;
+}
